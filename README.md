@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ethan-Zhengsy
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Verilog and Pytorch.
+- 🌱 I’m currently learning ROS and Pytorch.
 - 💞️ I’m looking to collaborate on robots and AI.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
